@@ -10,7 +10,8 @@ while (true)
 	{
 		if (playerNumber == compNumber)
 		{
-			Console.WriteLine("You guessed it!");	break;
+			Console.WriteLine("You guessed it!");	
+			break;
 		}
 		else if (playerNumber < compNumber)
 		{
